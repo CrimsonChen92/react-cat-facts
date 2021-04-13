@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+.p-center {
+  text-align: center;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: "50%";
+  height: "50%";
+}
+
+.facts-p {
+  text-align: center;
+  color: white;
+  background-color: grey;
+  border: 40px;
+  width: 400px;
+  margin: auto;
+  font-size: 25px;
+}
